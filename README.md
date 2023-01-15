@@ -30,7 +30,7 @@
     * Physics Inspired Machine Learning
     * Machine Learning Interaction Potential
     * Graph Convolutional Neural Network
-    * Equivalent Neural Network
+    * Equivariant Neural Network
 
 * Drug Discovery
     * Free Energy Calculation
