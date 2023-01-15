@@ -17,7 +17,7 @@
 
 #### 2011.09 - 2015.06 &ensp; University of Science and Technology of China
 
-* Applied Physics, Bachelor
+* Applied Physics, Bachelor's
 
 ## Research Interests
 * Computational Physics/Chemistry
