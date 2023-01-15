@@ -1,4 +1,4 @@
-# Looking for Reviewing Opportunities in
+# Available for Reviewing Opportunities in
 * Physics-Based Machine Learning
 * Computational Chemistry
 * Computational Materials Science
